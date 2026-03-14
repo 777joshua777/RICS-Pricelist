@@ -8,7 +8,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Fog": {
@@ -20,7 +20,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Rain": {
@@ -32,7 +32,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -44,7 +44,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -56,7 +56,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FoggyRain": {
@@ -68,7 +68,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowHard": {
@@ -80,7 +80,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowGentle": {
@@ -92,7 +92,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BloodRain": {
@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Windy": {
@@ -116,7 +116,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ToxRain": {
@@ -128,7 +128,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Sandstorm": {
@@ -140,7 +140,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BlindFog": {
@@ -152,7 +152,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Overcast": {
@@ -164,7 +164,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Blizzard": {
@@ -176,7 +176,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorrentialRain": {
@@ -188,7 +188,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_Windy": {
@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_Drizzle": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_FogStorm": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_FoggySnow": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Hurricane": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
@@ -260,7 +260,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "MF_UpperLevelWeather": {
@@ -272,7 +272,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "MultiFloors",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "STORMYASHRAIN": {
@@ -284,7 +284,139 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "RimWorld",
-    "modactive": false,
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_RedFog": {
+    "DefName": "AB_RedFog",
+    "Label": "red fog",
+    "Description": "Red fog reduces the accuracy of ranged weapons.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_VolcanicAsh": {
+    "DefName": "AB_VolcanicAsh",
+    "Label": "volcanic ash",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption. This creates a thick atmospheric layer that reduces ranged accuracy.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_VolcanicAshRain": {
+    "DefName": "AB_VolcanicAshRain",
+    "Label": "volcanic ash with rain",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption, precipitating with rain. This creates a thick atmospheric layer that reduces ranged accuracy.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenNight": {
+    "DefName": "AB_ForsakenNight",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight": {
+    "DefName": "AB_ForsakenRainyNight",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm": {
+    "DefName": "AB_ForsakenThunderstorm",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_AcidRainWeather": {
+    "DefName": "AB_AcidRainWeather",
+    "Label": "acid rain",
+    "Description": "Toxic gas emissions from nearby volcanically active calderas are precipitating in the form of dangerous acid rain. Acid rain has an adverse impact on flora and fauna, killing insect and aquatic life-forms as well as having impacts on human health. Acid rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_PetalStorms": {
+    "DefName": "AB_PetalStorms",
+    "Label": "petal storm",
+    "Description": "A flurry of flower petals that improves mood but reduces visibility.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenNight_Alternate": {
+    "DefName": "AB_ForsakenNight_Alternate",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight_Alternate": {
+    "DefName": "AB_ForsakenRainyNight_Alternate",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm_Alternate": {
+    "DefName": "AB_ForsakenThunderstorm_Alternate",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
     "Version": 1
   }
 }
